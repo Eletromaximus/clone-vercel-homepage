@@ -1,3 +1,6 @@
+<h1> Clone da página da Vercel </h1>
+<p> Objetivo desse código é aprender a desenvolver com Sass. Este exercicío foi desenvolvido pela Rockeatseat. Links e fontes abaixo <p>
+
 <h1 align="center">
 UI Clone #17 - Vercel (Homepage)
 </h1>
@@ -14,8 +17,6 @@ UI Clone #17 - Vercel (Homepage)
 <hr>
 
 ## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
 
 [Guilherme Rodz](https://github.com/guilhermerodz)
 
